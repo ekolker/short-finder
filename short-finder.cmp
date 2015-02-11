@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Wednesday, February 11, 2015 'AMt' 12:12:33 AM
+Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Wednesday, February 11, 2015 'AMt' 12:28:42 AM
 
 BeginCmp
 TimeStamp = /54D6F994;
@@ -197,17 +197,17 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
 EndCmp
 
 BeginCmp
+TimeStamp = /54D92F5A;
+Reference = J9;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
 TimeStamp = /54D7FF39;
 Reference = JP1;
 ValeurCmp = JUMPER;
 IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /54D92F5A;
-Reference = P1;
-ValeurCmp = CONN_01X03;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
