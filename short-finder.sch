@@ -414,7 +414,7 @@ U 1 1 54D75293
 P 8200 9100
 F 0 "U5" H 7800 9350 60  0000 C CNN
 F 1 "AAT3110" H 8200 9100 60  0000 C CNN
-F 2 "Housings_SOT-23_SOT-143_TSOT-6:SC70-6" H 8200 9100 60  0001 C CNN
+F 2 "SMD_Packages:SOT-23-6" H 8200 9100 60  0001 C CNN
 F 3 "" H 8200 9100 60  0000 C CNN
 	1    8200 9100
 	1    0    0    -1  
@@ -1375,4 +1375,24 @@ F 3 "" H 11600 6250 60  0000 C CNN
 $EndComp
 Text Notes 1300 4350 0    60   ~ 0
 PVZ3A102C01R00
+Text Label 8000 6200 0    60   ~ 0
+PPP
+Text Label 5750 6000 0    60   ~ 0
+D1&2
+Text Label 5750 6700 0    60   ~ 0
+D2&3
+Text Label 3900 8400 0    60   ~ 0
+SHELL
+Text Label 1300 3300 0    60   ~ 0
+POT_MID
+Text Label 3050 2500 0    60   ~ 0
+OPAMP_OUT
+Text Label 2100 2300 1    60   ~ 0
+V-
+Text Label 5100 2800 0    60   ~ 0
+INV1_IN
+Text Label 4350 2500 1    60   ~ 0
+INV_BASE_DRIVE
+Text Label 3500 6200 0    60   ~ 0
+VREF
 $EndSCHEMATC
